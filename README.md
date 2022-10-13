@@ -5,6 +5,7 @@
 - There is so much more to learn, but thus far I have completed several individual challenges to showcase my skills
 - I have also worked on several group projects, using our group dynamic to utilize the particular strengths of each one of us in the group, and helped one another through any individual or group weaknesses, in order to overcome any obstacles.
 
+https://github.com/BigEVK/BigEVK.github.io
 
 https://github.com/BigEVK/ReactPortfolio
 
